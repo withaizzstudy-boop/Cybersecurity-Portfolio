@@ -9,8 +9,6 @@
 - ✅ Meow — Telnet, Linux, OpenVPN, Nmap
 - ✅ Fawn — FTP, Anonymous Login, File Transfer
 - ✅ Dancing — SMB, Windows Shares, smbclient
-- ⏳ Redeemer
-- ⏳ Explosion
 
 ## Изученные инструменты
 
