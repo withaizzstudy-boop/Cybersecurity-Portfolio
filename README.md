@@ -1,28 +1,36 @@
 # Cybersecurity-Portfolio
+
 Привет! Меня зовут Айзада.
 
-Я начинаю развиваться в области информационной безопасности и веду здесь журнал обучения, лабораторных работ и практических заданий.
+Я начинаю развиваться в области информационной безопасности и веду здесь журнал выполненных лабораторных работ Hack The Box и собственных проектов.
 
-Пройденные лаборатории Hack The Box
-Starting Point
-* Meow — Telnet, Linux, OpenVPN, Nmap
-  
-* Fawn
-* Dancing
-* Redeemer
-* Explosion
-  
-Изученные инструменты
-* Nmap
-* OpenVPN
-* Linux
-* Telnet
-Цель
+## Пройденные лаборатории Hack The Box Starting Point
 
-Получить практические навыки в области:
+- ✅ Meow — Telnet, Linux, OpenVPN, Nmap
+- ✅ Fawn — FTP, Anonymous Login, File Transfer
+- ✅ Dancing — SMB, Windows Shares, smbclient
+- ⏳ Redeemer
+- ⏳ Explosion
 
-Information Security
-SOC
-Network Security
-Vulnerability Assessment
-Penetration Testing
+## Изученные инструменты
+
+- Nmap
+- OpenVPN
+- FTP
+- SMB
+- Telnet
+- Linux Terminal
+- Pwnbox
+
+## Навыки
+
+- Сканирование сети
+- Перечисление сервисов
+- Работа с FTP
+- Работа с SMB
+- Работа с Linux
+- Базовая разведка сети
+
+## Контакты
+
+GitHub: @withaizzstudy
